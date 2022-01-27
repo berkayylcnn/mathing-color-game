@@ -14,12 +14,12 @@ plevel.textContent = level-1
 
 function drawboard(){
     main.style.width= width + "px"
-    if(level>3){
+    if(level>5){
         dim= dim+10
         width=width+400
         main.style.width=width+ "px"
     }
-    for(let i = 0; i < level * 8; i++)
+    for(let i = 0; i < level * 4; i++)
     {
         let square = document.createElement("div")
         square.classList.add("square")
