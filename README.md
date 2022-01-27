@@ -5,8 +5,9 @@ Karışık renklerde olan kapalı kartları doğru renkleriyle eşleştirmelisin
 
 # Kurulum
 Oyunu oynayabilmek için öncelikle kendi bilgisayarınıza indirmelisiniz.
-
+```
 git clone https://github.com/berkayylcnn/HAFIZA-OYUNU.git
+```
 
 
 
